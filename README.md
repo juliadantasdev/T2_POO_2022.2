@@ -1,7 +1,12 @@
 <meta charset = "utf-8">
 <html>
 <h1> 2° trabalho de POO da N1</h1>
-<h2> Questões </h2>
+Trabalho da disciplina de Programação Orientada ao Objeto, do Instituto Federal do Ceará, com o professor [Roger Moura](https://github.com/rogermsarmento), foi realizado em dupla, pela [Gleicy Kelli](https://github.com/gkb63)
+  <div align="above">
+  <img height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
+
+  <h2> Questões </h2>
 
 <ol>
   
