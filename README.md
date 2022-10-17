@@ -1,12 +1,18 @@
+<!doctype html1>
 <meta charset = "utf-8">
 <html>
 <h1> 2° trabalho de POO da N1</h1>
-Trabalho da disciplina de Programação Orientada ao Objeto, do Instituto Federal do Ceará, com o professor [Roger Moura]"https://github.com/rogermsarmento", foi realizado em dupla, pela [Gleicy Kelli](https://github.com/gkb63) e por mim, [Júlia Dantas]
-  <div align="above">
-  <img height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
+<h2> Informações do projeto</h2>
+<hr>
+<ul> 
+  <li> O repositório contém questões do 2° trabalho de POO do curso de Informática do IFCE, campus Fortaleza.</li>
+  <li> Professor: <a href = ""> Roger Moura</a>.</li>
+  <li> Alunas: <a href = "https://github.com/juliadantasdev"> Júlia Dantas</a> e <a href = "https://github.com/gkb63"> Gleicy Kelli Batista</a>.</li>
+  <li> 3° Período. </li>
+</ul>
+<hr>
 
-  <h2> Questões </h2>
+<h2> Questões </h2>
 
 <ol>
   
