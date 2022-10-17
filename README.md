@@ -8,6 +8,7 @@
   <li> Professor: <a href = "https://github.com/rogermsarmento"> Roger Moura</a>.</li>
   <li> Alunas: <a href = "https://github.com/juliadantasdev"> Júlia Dantas</a> e <a href = "https://github.com/gkb63"> Gleicy Kelli Batista</a>.</li>
   <li> 3° Período. </li>
+  <li> Linguagem: Java. </li>
 </ul>
 <hr>
 
