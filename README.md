@@ -1,4 +1,3 @@
-<!doctype html1>
 <meta charset = "utf-8">
 <html>
 <h1> 2° trabalho de POO da N1</h1>
